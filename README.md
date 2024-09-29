@@ -1,10 +1,9 @@
-<h2 align="center"> Hi there !  👋 </br> My name is Hüseyin & I'm a Software / React / Frontend Developer from Turkey</h2>
+<h2 align="center"> Hi there !  👋 </br> My name is Samet & I'm a Software / React / Frontend Developer from Turkey</h2>
 <h4> I have worked with front-end technologies such as HTML, CSS, JavaScript, and React. Through these projects, I have developed a solid understanding of software development principles and enhanced my problem-solving skills. I am eager to learn new technologies and excited to be part of a collaborative team. I can easily adapt to the team or organization I work with and take joy in collaborating with others and working towards common goals.</h4>
 
 <img  align="right" height="150" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif"/>
 
 <div align = "left" >
-
 
 💫 About Me :
  
@@ -20,14 +19,14 @@
 
 🤝🏻 I am open to job offers
 
-📫 You can reach me here  haslan82@hotmail.com
+📫 You can reach me here  sametklsz00@gmail.com
 
 </div>
 
 <h1 align="center">🤝🏻 Connect With Me </br> 
-<a href="https://www.linkedin.com/in/huseyin-aslan-128519203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
-<a href="https://x.com/huseyinaslan82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
-<a href="https://www.instagram.com/haslan82/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haslan82" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samet-kolsuz-72b2b5297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
+<a href="https://x.com/KolsuzSame84878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sametkolsuz_1409/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haslan82" height="30" width="40" /></a>
 </h1>
 
 ###  💻  Tech Stack :
@@ -38,5 +37,8 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  </p>
  
  # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=haslan82&theme=nightowl&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haslan82&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=samet-kolsuz&theme=nightowl&hide_border=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samet-kolsuz&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
