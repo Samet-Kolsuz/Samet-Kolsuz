@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there !  👋 </br> My name is Samet & I'm a Software / React / Frontend Developer from Turkey</h2>
-<h4> I have worked with front-end technologies such as HTML, CSS, JavaScript, and React. Through these projects, I have developed a solid understanding of software development principles and enhanced my problem-solving skills. I am eager to learn new technologies and excited to be part of a collaborative team. I can easily adapt to the team or organization I work with and take joy in collaborating with others and working towards common goals.</h4>
+<h4> I have worked with front-end technologies such as HTML, CSS, JavaScript and React. Through these projects, I developed a solid understanding of software development strategies and improved my problem solving. I am enthusiastic about new technologies and curious about the excitement of being part of a collaborative team. My strength is that I fit into a team or organization easily, and I enjoy collaborating with others and working towards common goals. I'm enjoying this job.</h4>
 
 <img  align="right" height="150" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif"/>
 
