@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there !  👋 </br> My name is Samet & I'm a Software / React / Frontend Developer from Turkey</h2>
-<h4> I have worked with front-end technologies such as HTML, CSS, JavaScript and React. In my work environment, I possess a determined, hardworking personality that can quickly concentrate. I am open to teamwork and task division, allowing me to collaborate effectively with team members. When necessary, I can compile and integrate all the parts to manage projects as a whole.
+<h4>In my work environment, I possess a determined, hardworking personality that can quickly concentrate. I am open to teamwork and task division, allowing me to collaborate effectively with team members. When necessary, I can compile and integrate all the parts to manage projects as a whole.
 
 I pay careful attention to ensuring that my work environment is efficient. Thanks to my regular working principle, I can best utilize my time and resources. This discipline plays a crucial role in enhancing both individual and team success. I continuously strive to improve myself to achieve my goals.
 
