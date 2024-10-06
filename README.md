@@ -1,5 +1,13 @@
 <h2 align="center"> Hi there !  👋 </br> My name is Samet & I'm a Software / React / Frontend Developer from Turkey</h2>
-<h4> I have worked with front-end technologies such as HTML, CSS, JavaScript and React. Through these projects, I developed a solid understanding of software development strategies and improved my problem solving. I am enthusiastic about new technologies and curious about the excitement of being part of a collaborative team. My strength is that I fit into a team or organization easily, and I enjoy collaborating with others and working towards common goals. I'm enjoying this job.</h4>
+<h4> I have worked with front-end technologies such as HTML, CSS, JavaScript and React. In my work environment, I possess a determined, hardworking personality that can quickly concentrate. I am open to teamwork and task division, allowing me to collaborate effectively with team members. When necessary, I can compile and integrate all the parts to manage projects as a whole.
+
+I pay careful attention to ensuring that my work environment is efficient. Thanks to my regular working principle, I can best utilize my time and resources. This discipline plays a crucial role in enhancing both individual and team success. I continuously strive to improve myself to achieve my goals.
+
+The software industry is a dream for me and a field I am deeply passionate about. I am thoroughly captivated by it; the processes of software development, algorithms, and new technologies constantly excite me. For me, software is much more than just a job; it is a deep interest and a hobby that I truly enjoy.
+
+This passion, combined with my desire for continuous learning and innovative thinking, drives me further forward. I aim to build a career in software and contribute to this field in the future. Software development is a journey for me; each project presents a great opportunity to learn new things and enhance my skills.
+
+In conclusion, my disciplined work ethic and passion for software motivate me on the path to achieving my goals. I take great joy in being a part of this journey.</h4>
 
 <img  align="right" height="150" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif"/>
 
