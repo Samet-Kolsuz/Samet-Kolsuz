@@ -9,7 +9,7 @@ This passion, combined with my desire for continuous learning and innovative thi
 
 In conclusion, my disciplined work ethic and passion for software motivate me on the path to achieving my goals. I take great joy in being a part of this journey.</h4>
 
-<img  align="right" height="150" src="[[https://tenor.com/tr/view/meditation-work-hard-work-developer-minimalism-gif-14112646](https://media1.tenor.com/m/Kz71QOBheAcAAAAd/meditation-work.gif)]"/>
+<img  align="right" height="150" width="150" src="[[https://tenor.com/tr/view/meditation-work-hard-work-developer-minimalism-gif-14112646](https://media1.tenor.com/m/Kz71QOBheAcAAAAd/meditation-work.gif)]"/>
 
 <div align = "left" >
 
