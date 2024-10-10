@@ -15,9 +15,9 @@ In conclusion, my disciplined work ethic and passion for software motivate me on
 
 💫 About Me :
  
-🔭 I work as a passionate Frontend Developer.
+🔭 I work as a passionate Backend Developer.
 
-⚡ I can help with Front End.
+⚡ I can help with Backend End.
 
 🟢 I like to paint my repo green. I don't like empty boxes.
 
