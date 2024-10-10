@@ -9,7 +9,7 @@ This passion, combined with my desire for continuous learning and innovative thi
 
 In conclusion, my disciplined work ethic and passion for software motivate me on the path to achieving my goals. I take great joy in being a part of this journey.</h4>
 
-<img  align="right" height="150" src="[https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif](https://tenor.com/tr/view/software-software-development-gif-24712790)"/>
+<img  align="right" height="150" src="https://tenor.com/tr/view/meditation-work-hard-work-developer-minimalism-gif-14112646"/>
 
 <div align = "left" >
 
@@ -32,9 +32,9 @@ In conclusion, my disciplined work ethic and passion for software motivate me on
 </div>
 
 <h1 align="center">🤝🏻 Connect With Me </br> 
-<a href="https://www.linkedin.com/in/samet-kolsuz-72b2b5297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
-<a href="https://x.com/KolsuzSame84878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hüseyin ASLAN" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sametkolsuz_1409/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haslan82" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samet-kolsuz-72b2b5297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samet Kolsuz" height="30" width="40" /></a>
+<a href="https://x.com/KolsuzSame84878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Samet Kolsuz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sametkolsuz_1409/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sametklsz" height="30" width="40" /></a>
 </h1>
 
 ###  💻  Tech Stack :
